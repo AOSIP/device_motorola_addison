@@ -1,0 +1,21 @@
+[
+  {
+    "repository":  "kernel_motorola_addison",
+    "target_path": "kernel/motorola/addison"
+  },
+  {
+    "remote"    : "github",
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "revision"  : "cm-14.1"
+  },
+  {
+    "repository": "packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "repository": "platform_vendor_motorola",
+    "target_path": "vendor/motorola"
+  }
+]
+
